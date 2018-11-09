@@ -1,5 +1,6 @@
 # sql-jdbc-1
 
+## Set up
 Create a database with two tables:
 
 Teachers
@@ -22,4 +23,5 @@ ClassID | ClassName | Time
 4 | CompSci | PM
 5 | Hacking | AM
 
+## Exercise
 Use JDBC to print the results of all teachers with or without corresponding classes. Next print the results of all classes with or without their corresponding teachers. Make sure to push your work back to this repository.
